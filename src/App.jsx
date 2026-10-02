@@ -1,15 +1,7 @@
-// import Form from "./form";
-
-// function App() {
-//   return <Form />;
-// }
-
-// export default App;
-
-import Exam from "./exam";
+import Form from "./form";
 
 function App() {
-  return <Exam />;
+  return <Form/>;
 }
 
 export default App;
